@@ -1,7 +1,6 @@
 var React = require('react');
 var transparentBg= require('../styles/index').transparentBg
 var ReactRouter = require('react-router')
-
 var Link=ReactRouter.Link;
 
 
